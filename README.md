@@ -83,7 +83,7 @@ Pamukkale Üniversitesi
 Fen Fakültesi
 Hidrobiyoloji Laboratuvarı
 DENİZLİ
-
+  
 ⸻
 
 Bu depo, öğrencilerin istatistiksel düşünme, veri analizi ve R programlama becerilerini geliştirmelerini desteklemek amacıyla hazırlanmıştır.
