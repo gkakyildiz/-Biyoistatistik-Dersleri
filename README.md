@@ -78,9 +78,11 @@ Tüm materyalleri indirmek için:
 ⸻
 
 🎓 Akademik Bilgi
-
+Gürçay Kıvanç AKYILDIZ
 Pamukkale Üniversitesi
-Biyoistatistik Ders Materyalleri
+Fen Fakültesi
+Hidrobiyoloji Laboratuvarı
+DENİZLİ
 
 ⸻
 
